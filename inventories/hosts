@@ -1,0 +1,9 @@
+[all]
+ao  aci_fz=AO  ansible_host=sandboxapicdc.cisco.com
+cml aci_fz=CML  ansible_host=10.10.10.1
+
+[cred_ao]
+ao
+
+[cred_cml]
+cml
